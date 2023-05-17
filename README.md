@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <div align="center">
-  <img src="https://img2.joyreactor.cc/pics/post/full/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Art-lo-fi-girl-7209120.gif" width="300" height="330"/>
+  <img src="https://img2.joyreactor.cc/pics/post/full/гифки-Pixel-Art-lo-fi-girl-7209120.gif" width="300" height="330"/>
 </div>
 
 ---

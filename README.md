@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <div align="center">
-  <img src="https://img2.joyreactor.cc/pics/post/full/гифки-Pixel-Art-lo-fi-girl-7209120.gif" width="300" height="330"/>
+  <img src="https://www.freepik.com/free-vector/hand-drawn-iranian-woman-illustration_33579223.htm#page=2&query=data%20girl&position=12&from_view=search&track=ais" width="300" height="330"/>
 </div>
 
 ---

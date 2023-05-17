@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/woman-worker-analyzing-digital-data-charts-graphs_88138-705.jpg?w=1800&t=st=1684330104~exp=1684330704~hmac=5ecfbbbb256975af4ee745a09a103c88049b314a6a0f567e76699d57a5100de2" width="400" height="300"/>
+  <img src="https://img.freepik.com/free-vector/hand-drawn-iranian-woman-illustration_23-2149857673.jpg?w=1380&t=st=1684329973~exp=1684330573~hmac=680e6f23149c871ee8ea864d1e4c6ce97452672113833a1e24d995839d0fe89c" width="400" height="300"/>
 </div>
 
 ---

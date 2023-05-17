@@ -1,11 +1,21 @@
-### Hello there 👋
+## Hello there 👋
+https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)" width="600" height="300"/>
+</div>
+### About me
 
+- Data engineer in progress 🚀 
+- Learning and sharing results of my work
 
-## Connect with me
+### Expertise
+
+### Currently learning
+
+### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" />](https://t.me/angsmnva)
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/angsmnva)
 
 
 

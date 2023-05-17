@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="480" height="480"/>
 </div>
 
 ---
@@ -19,7 +19,8 @@
 
 ---
 
-### Connect with me [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" />](https://t.me/angsmnva)
+### Connect with me 
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" />](https://t.me/angsmnva)
 
 
 

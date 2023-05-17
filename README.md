@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300" height="330"/>
+  <img src="https://joyreactor.cc/search/Pixel+Gif+lofi" width="300" height="330"/>
 </div>
 
 ---
